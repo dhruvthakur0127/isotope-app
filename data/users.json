@@ -1,0 +1,140 @@
+[
+  {
+    "id": "mdqeddb8eodl8576sg7",
+    "email": "aditya.spotifynew@gmail.com",
+    "password": "Adityadave",
+    "name": "ADITYA DAVE",
+    "createdAt": "2025-07-30T20:07:19.460Z",
+    "lastLogin": "2025-07-30T20:31:52.051Z",
+    "profile": {
+      "completedModules": [],
+      "quizScores": [
+        {
+          "quizId": "nuclear-economics-basic",
+          "score": 0,
+          "totalQuestions": 5,
+          "timeSpent": 33,
+          "categoryScores": {
+            "Production Methods": {
+              "correct": 0,
+              "total": 1
+            },
+            "Cost Analysis": {
+              "correct": 0,
+              "total": 2
+            },
+            "Market Factors": {
+              "correct": 0,
+              "total": 2
+            }
+          },
+          "completedAt": "2025-07-30T20:10:19.751Z"
+        }
+      ],
+      "gameProgress": [],
+      "learningProgress": {
+        "modulesCompleted": [],
+        "totalTimeSpent": 0,
+        "certificatesEarned": [],
+        "currentStreak": 0,
+        "lastActivity": "2025-07-30T20:10:19.751Z"
+      },
+      "preferences": {
+        "theme": "dark",
+        "notifications": true,
+        "language": "en",
+        "difficulty": "beginner"
+      }
+    }
+  },
+  {
+    "id": "mdqvk5jb8gnuftxjde",
+    "email": "aditya.bbit@gmail.com",
+    "password": "Adityadave",
+    "name": "Aditya Dave",
+    "createdAt": "2025-07-31T04:08:29.447Z",
+    "lastLogin": "2025-07-31T06:16:52.765Z",
+    "profile": {
+      "completedModules": [],
+      "quizScores": [
+        {
+          "quizId": "nuclear-economics-basic",
+          "score": 1,
+          "totalQuestions": 5,
+          "timeSpent": 52,
+          "categoryScores": {
+            "Production Methods": {
+              "correct": 0,
+              "total": 1
+            },
+            "Cost Analysis": {
+              "correct": 0,
+              "total": 2
+            },
+            "Market Factors": {
+              "correct": 1,
+              "total": 2
+            }
+          },
+          "completedAt": "2025-07-31T04:09:51.899Z"
+        },
+        {
+          "quizId": "nuclear-economics-basic",
+          "score": 0,
+          "totalQuestions": 5,
+          "timeSpent": 35,
+          "categoryScores": {
+            "Production Methods": {
+              "correct": 0,
+              "total": 1
+            },
+            "Cost Analysis": {
+              "correct": 0,
+              "total": 2
+            },
+            "Market Factors": {
+              "correct": 0,
+              "total": 2
+            }
+          },
+          "completedAt": "2025-07-31T05:22:05.011Z"
+        },
+        {
+          "quizId": "nuclear-economics-basic",
+          "score": 1,
+          "totalQuestions": 5,
+          "timeSpent": 27,
+          "categoryScores": {
+            "Production Methods": {
+              "correct": 0,
+              "total": 1
+            },
+            "Cost Analysis": {
+              "correct": 0,
+              "total": 2
+            },
+            "Market Factors": {
+              "correct": 1,
+              "total": 2
+            }
+          },
+          "completedAt": "2025-07-31T06:16:38.303Z"
+        }
+      ],
+      "gameProgress": [],
+      "learningProgress": {
+        "modulesCompleted": [],
+        "totalTimeSpent": 0,
+        "certificatesEarned": [],
+        "currentStreak": 0,
+        "lastActivity": "2025-07-31T06:16:38.303Z"
+      },
+      "preferences": {
+        "theme": "dark",
+        "notifications": true,
+        "language": "en",
+        "difficulty": "beginner"
+      }
+    }
+  }
+]
